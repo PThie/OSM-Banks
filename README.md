@@ -6,4 +6,4 @@ This repository provides code for extracting geospatial data of banks and ATMs f
 
 - Used tags: bank (amenity), atm (amenity)
 - Geographical coverage: Germany
-- Latest OSM data used (no timestamp set)
+- OSM data used for 2014, 2018, 2022 (timestamp)
